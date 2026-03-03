@@ -1,6 +1,3 @@
-<!--START_SECTION:space-shooter-->
-<!--END_SECTION:space-shooter-->
-
 ## Hi there 👋
 
 <!--
@@ -17,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:space-shooter-->
+
+![gh-space-shooter](gh-space-shooter.webp)
+
+<!--END_SECTION:space-shooter-->

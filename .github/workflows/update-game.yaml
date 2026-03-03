@@ -18,7 +18,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: "jayzen33"
-          output-path: "game.webp"
+          output-path: "gh-space-shooter.webp"
           fps: "25"
           write-dataurl-to: "README.md"
           strategy: "random"
