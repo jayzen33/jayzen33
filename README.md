@@ -1,3 +1,14 @@
+<!-- <div align="center"> -->
+
+<!-- <img src="./header.svg" width="100%" alt="Header Banner" /> -->
+
+<!-- <p align="center">
+  <a href="https://yourwebsite.com/">Personal Website</a> •
+  <a href="https://twitter.com/yourhandle">Thread</a> •
+  <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> •
+  <a href="https://medium.com/@yourhandle">Medium</a>
+</p> -->
+
 ## Hi there 👋
 
 <!--
