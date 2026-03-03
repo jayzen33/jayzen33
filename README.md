@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on speech synthesis (TTS) for game scenarios, focusing on controllable emotional TTS, audio-visual joint generation, and MIDI-based singing voice synthesis.
+- 🌱 I’m currently learning multi-modal large language models, reinforcement learning for generation tasks (DPO/GRPO), advanced speech tokenization techniques, and exploring AI Agents for daily life integration.
+- 👯 I’m looking to collaborate on projects related to speech/audio generation, multi-modal AI, and creative applications of AIGC in gaming or entertainment.
+- 🤔 I’m looking for help with efficient data cleaning pipelines, scaling up model training, and exploring novel evaluation metrics for generative models.
+- 💬 Ask me about speech synthesis (VITS, CosyVoice, F5TTS), controllable TTS, audio-visual generation, AI Agents, or my experience publishing at ACM MM and Interspeech.
+- 📫 How to reach me: jayzen33@outlook.com
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: I once used AI to generate a game character's voice and background music in just one day — it saved the team a week of manual work! -->
+
 <!--START_SECTION:space-shooter-->
 
 ![gh-space-shooter](gh-space-shooter.webp)
