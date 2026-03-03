@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning multi-modal large language models, reinforcement learning for generation tasks (DPO/GRPO), advanced speech tokenization techniques, and exploring AI Agents for daily life integration.
 - 👯 I’m looking to collaborate on projects related to speech/audio generation, multi-modal AI, and creative applications of AIGC in gaming or entertainment.
 - 🤔 I’m looking for help with efficient data cleaning pipelines, scaling up model training, and exploring novel evaluation metrics for generative models.
-- 💬 Ask me about speech synthesis (VITS, CosyVoice, F5TTS), controllable TTS, audio-visual generation, AI Agents, or my experience publishing at ACM MM and Interspeech.
+- 💬 Ask me about speech synthesis, controllable TTS, audio-visual generation, AI Agents or anything related to AI and technology.
 - 📫 How to reach me: jayzen33@outlook.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: I once used AI to generate a game character's voice and background music in just one day — it saved the team a week of manual work! -->
