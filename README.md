@@ -9,7 +9,7 @@
   <a href="https://medium.com/@yourhandle">Medium</a>
 </p> -->
 
-## Hi there 👋
+## Hi there 👋 I am jayzen33
 
 <!--
 **jayzen33/jayzen33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
